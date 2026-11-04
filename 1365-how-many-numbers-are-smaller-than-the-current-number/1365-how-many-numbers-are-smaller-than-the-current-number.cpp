@@ -11,7 +11,6 @@ public:
                 }
             }
             ans.push_back(count);
-            count==0;
         }
         return ans;
     }
